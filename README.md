@@ -16,8 +16,10 @@ You may also see any lint errors in the console.
 
 ### `npm run start:server`
 
-Rund the server (json-server) on port 3001 to fetch the data from json
+Runs the server (json-server) on port 3001 to fetch the data from json
 
+
+Steps to Run:
 
 1. npm install
 2. npm start
