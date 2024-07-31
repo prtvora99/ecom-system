@@ -1,0 +1,126 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptops"
+    },
+    {
+      "id": 2,
+      "name": "Mobiles"
+    },
+    {
+      "id": 3,
+      "name": "Speakers"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Lenovo",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 1,
+      "category": "Laptops",
+      "slug": "lenovo-electronics-1",
+      "description": "Lenovo Laptop 1"
+    },
+    {
+      "id": 2,
+      "name": "Mac",
+      "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 1,
+      "category": "Laptops",
+      "slug": "mac-electronics-2",
+      "description": "Lenovo Laptop 2"
+    },
+    {
+      "id": 3,
+      "name": "Dell",
+      "imageUrl": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 2,
+      "category": "Mobiles",
+      "slug": "dell-books-3",
+      "description": "Lenovo Laptop 3"
+    },
+    {
+      "id": 4,
+      "name": "Lenovo",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 3,
+      "category": "Speakers",
+      "slug": "lenovo-clothing-4",
+      "description": "Lenovo Laptop 4"
+    },
+    {
+      "id": 5,
+      "name": "Mac",
+      "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 1,
+      "category": "Laptops",
+      "slug": "mac-electronics-5",
+      "description": "Lenovo Laptop 5"
+    },
+    {
+      "id": 6,
+      "name": "Dell",
+      "imageUrl": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 2,
+      "category": "Mobiles",
+      "slug": "dell-books-6",
+      "description": "Lenovo Laptop 6"
+    },
+    {
+      "id": 7,
+      "name": "Lenovo",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 3,
+      "category": "Speakers",
+      "slug": "lenovo-clothing-7",
+      "description": "Lenovo Laptop 7"
+    },
+    {
+      "id": 8,
+      "name": "Mac",
+      "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 2,
+      "category": "Mobiles",
+      "slug": "mac-books-8",
+      "description": "Lenovo Laptop 8"
+    },
+    {
+      "id": 9,
+      "name": "Dell",
+      "imageUrl": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 3,
+      "category": "Speakers",
+      "slug": "dell-clothing-9",
+      "description": "Lenovo Laptop 9"
+    },
+    {
+      "id": 10,
+      "name": "Lenovo",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 3,
+      "category": "Speakers",
+      "slug": "lenovo-clothing-10",
+      "description": "Lenovo Laptop 10"
+    },
+    {
+      "id": 11,
+      "name": "Mac",
+      "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 2,
+      "category": "Mobiles",
+      "slug": "mac-books-11",
+      "description": "Lenovo Laptop 11"
+    },
+    {
+      "id": 12,
+      "name": "Dell",
+      "imageUrl": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 3,
+      "category": "Speakers",
+      "slug": "dell-clothing-12",
+      "description": "Lenovo Laptop 12"
+    }
+  ]
+}

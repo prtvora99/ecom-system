@@ -1,0 +1,27 @@
+.prodImage {
+    height: 400px;
+    border-radius: 3px;
+    max-width: 90%;
+}
+
+.detailWrapper {
+    display: flex;
+    margin-top: 50px;
+}
+
+.detailWrapper .imgWrapper, .detailWrapper .productDetail {
+    width: 50%;
+}
+
+.productDetail {
+    margin-left: 30px;
+}
+
+.productDetail p {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.productDetail p span {
+    font-weight: 600;
+}

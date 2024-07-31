@@ -1,0 +1,42 @@
+.pageTitle {
+    text-align: center;
+}
+
+.categoryWrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoryWrapper p {
+    margin-right: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.categoryWrapper select {
+    width: 130px;
+    height: 40px;
+    border: 1px solid #d8d2d2;
+    padding: 10px 10px;
+    border-radius: 3px;
+}
+
+.seperator {
+    border: none;
+    border-top: 1px solid #d3d3d3;
+    margin-top: 30px;
+}
+
+.productList {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+    margin-top: 30px;
+
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+}
